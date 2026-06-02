@@ -20,7 +20,7 @@ DSA Buddy acts like a strict coding mentor. It reads the coding problem from the
 
 ## Architecture
 
-![DSA Buddy Architecture](file_00000000730071fa861e1d5bd8fb7498)
+![DSA Buddy Architecture](./architecture.png)
 
 ### Flow
 
